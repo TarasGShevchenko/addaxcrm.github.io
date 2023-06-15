@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/addaxcrm.github.io/static/css/main.e6c13ad2.css",
+    "main.js": "/addaxcrm.github.io/static/js/main.6a410625.js",
+    "static/js/787.4c4e7764.chunk.js": "/addaxcrm.github.io/static/js/787.4c4e7764.chunk.js",
+    "index.html": "/addaxcrm.github.io/index.html",
+    "main.e6c13ad2.css.map": "/addaxcrm.github.io/static/css/main.e6c13ad2.css.map",
+    "main.6a410625.js.map": "/addaxcrm.github.io/static/js/main.6a410625.js.map",
+    "787.4c4e7764.chunk.js.map": "/addaxcrm.github.io/static/js/787.4c4e7764.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6a410625.js"
+  ]
+}
